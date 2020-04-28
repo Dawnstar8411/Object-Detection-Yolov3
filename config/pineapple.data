@@ -1,0 +1,5 @@
+classes= 2
+train=/home/deep/chen/Datasets/Pineapple/train/train.txt
+valid=/home/deep/chen/Datasets/Pineapple/train/valid.txt
+test=/home/deep/chen/Datasets/Pineapple/train/full.txt
+names=/home/deep/chen/Datasets/Pineapple/train/classes.names
